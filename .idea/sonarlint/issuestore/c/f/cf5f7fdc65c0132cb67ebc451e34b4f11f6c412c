@@ -1,12 +1,2 @@
 
-l	java:S116"QRename this field "Auther" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(нѓя>8…–ђШЬ1
-D
-java:S1068"(Remove this unused "isbn" private field.(ычУa8§–ђШЬ1
-K
-java:S1068")Remove this unused "title" private field.(ехт№эяяяя8§–ђШЬ1
-F
-java:S1068"*Remove this unused "Auther" private field.(нѓя>8§–ђШЬ1
-N
-java:S1068",Remove this unused "category" private field.(‘С¤’ьяяяя8Ё–ђШЬ1
-I
-java:S1068"'Remove this unused "qty" private field.(«Шџншяяяя8т†‘ШЬ1
+l	java:S116"QRename this field "Auther" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(нѓя>8…–ђШЬ1
