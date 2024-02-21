@@ -1,4 +1,10 @@
 package org.example.service.impl;
 
-public class BookServiceImpl {
+import org.example.dto.Book;
+
+public class BookServiceImpl implements BookService {
+    @Override
+    public void addBook(Book book) {
+
+    }
 }
